@@ -1,0 +1,58 @@
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(3, 3, 3);
+    font-family: Apple Chancery, cursive;
+}
+
+#logo{
+    float: left;
+}
+
+#img{
+    width: 100px;
+    height: 100px;
+}
+
+}
+
+#connexion{
+    float:right;
+    top: 5px;
+    margin-right: 10px;
+}
+
+}
+
+#menu{
+    position:absolute;
+    top: 9%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#lien{
+    float: left;
+    margin-left: 10px;
+}
+
+}
+
+#menu-connect{
+    position: absolute;
+    top:9%;
+    left:80%;
+    transform:translate(-50%, -50%);
+}
+
+body
+{
+    background-image: url("etoile.png");
+    background-repeat: repeat;
+    background-attachment: fixed; 
+    background-position:bottom right;
+
+}
